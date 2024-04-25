@@ -1,2 +1,4 @@
-import { version as verDirectImport, foo } from './modules/common/index.js';
-import { fromModule } from './modules/sub-prod/index.js';
+import { typedSum } from './modules/common/index.js';
+
+const result = typedSum(1, 2);
+console.log(result);
