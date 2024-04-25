@@ -1,0 +1,6 @@
+[submodule "modules/sub-prod"]
+	path = modules/sub-prod
+	url = git@github.com:mark-finfare/sub-prod.git
+[submodule "modules/common"]
+	path = modules/common
+	url = git@github.com:mark-finfare/common.git
